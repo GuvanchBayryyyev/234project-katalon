@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>created for se234 class term project for testing the web application</description>
+   <name>234project-katalon</name>
+   <tag></tag>
+   <UUID>9c32457c-cdcc-41e8-afef-d326c42021fb</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
