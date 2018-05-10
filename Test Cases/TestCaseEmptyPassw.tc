@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCaseEmptyPassw</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32a01d39-7860-4afb-986d-b01bd2dc7309</testCaseGuid>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>c2f6f15f-d87c-4e77-9296-fb2d9e8ec945</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
