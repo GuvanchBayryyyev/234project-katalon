@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuiteLogin" time="115" tests="1" failures="2" errors="0">
+   <testsuite name="TestSuiteLogin" tests="1" failures="2" errors="0" time="115" timestamp="2018-05-10 16:16:23" hostname="LNV - DESKTOP-OR7KM58.mshome.net" id="Test Suites/TestSuiteLogin">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LNV\\Katalon Studio\\234project-katalon\\Reports\\TestSuiteLogin\\20180510_161620"/>
+         <property name="logFiles" value="C:\\Users\\LNV\\Katalon Studio\\234project-katalon\\Reports\\TestSuiteLogin\\20180510_161620\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\LNV\\Katalon Studio\\234project-katalon\\Reports\\TestSuiteLogin\\20180510_161620\\1525943856147.png, C:\\Users\\LNV\\Katalon Studio\\234project-katalon\\Reports\\TestSuiteLogin\\20180510_161620\\1525943898274.png"/>
+         <property name="hostName" value="LNV - DESKTOP-OR7KM58.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 66.0.3359.139"/>
+         <property name="hostAddress" value="172.20.241.177"/>
+         <property name="sessionId" value="0e93884466511ed5b67a3d27367dc293"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCaseLoginUser" classname="Test Cases/TestCaseLoginUser" status="PASSED">
+         <system-out><![CDATA[2018-05-10 16:16:24 - [TEST_CASE][PASSED] - Test Cases/TestCaseLoginUser: Test Cases/TestCaseLoginUser
+
+2018-05-10 16:16:25 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 16:16:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 16:16:28 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.186.33.226:2222/' successfully
+
+2018-05-10 16:16:37 - [MESSAGE][PASSED] - Navigate to 'http://54.186.33.226:2222/' successfully
+
+2018-05-10 16:16:37 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_username'
+
+2018-05-10 16:16:38 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_username'
+
+2018-05-10 16:16:38 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_password'
+
+2018-05-10 16:16:39 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_password'
+
+2018-05-10 16:16:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginUser/Page_ProjectBackend/button_Login' is clicked on
+
+2018-05-10 16:16:39 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginUser/Page_ProjectBackend/button_Login' is clicked on
+
+2018-05-10 16:16:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' is clicked on
+
+2018-05-10 16:16:40 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' is clicked on
+
+2018-05-10 16:16:40 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' is clicked on
+
+2018-05-10 16:16:40 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' is clicked on
+
+2018-05-10 16:16:40 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginUser/Page_ProjectBackend/button_Logout' is clicked on
+
+2018-05-10 16:16:40 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginUser/Page_ProjectBackend/button_Logout' is clicked on
+
+2018-05-10 16:16:40 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-10 16:16:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCaseLoginUser" classname="Test Cases/TestCaseLoginUser" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            
+          ' or . = 'Carts
+            
+          ')]' not found)"/>
+         <system-out><![CDATA[2018-05-10 16:16:41 - [TEST_CASE][FAILED] - Test Cases/TestCaseLoginUser: Test Cases/TestCaseLoginUser FAILED because (of) Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            
+          ' or . = 'Carts
+            
+          ')]' not found)
+
+2018-05-10 16:16:41 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 16:16:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 16:16:43 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.186.33.226:2222/' successfully
+
+2018-05-10 16:17:03 - [MESSAGE][PASSED] - Navigate to 'http://54.186.33.226:2222/' successfully
+
+2018-05-10 16:17:03 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_username'
+
+2018-05-10 16:17:03 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_username'
+
+2018-05-10 16:17:03 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_password'
+
+2018-05-10 16:17:04 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_password'
+
+2018-05-10 16:17:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginUser/Page_ProjectBackend/button_Login' is clicked on
+
+2018-05-10 16:17:04 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginUser/Page_ProjectBackend/button_Login' is clicked on
+
+2018-05-10 16:17:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' is clicked on
+
+2018-05-10 16:17:05 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' is clicked on
+
+2018-05-10 16:17:05 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            
+          ' or . = 'Carts
+            
+          ')]' not found)
+
+2018-05-10 16:17:36 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            
+          ' or . = 'Carts
+            
+          ')]' not found)
+[[ATTACHMENT|C:\\Users\\LNV\\Katalon Studio\\234project-katalon\\Reports\\TestSuiteLogin\\20180510_161620\\1525943856147.png]]]]></system-out>
+         <system-err><![CDATA[2018-05-10 16:16:41 - [TEST_CASE][FAILED] - Test Cases/TestCaseLoginUser: Test Cases/TestCaseLoginUser FAILED because (of) Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            
+          ' or . = 'Carts
+            
+          ')]' not found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCaseLoginUser" classname="Test Cases/TestCaseLoginUser" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' located by 'By.xpath: //a[@href = '/products' and (text() = 'Products
+          ' or . = 'Products
+          ')]' not found)"/>
+         <system-out><![CDATA[2018-05-10 16:17:36 - [TEST_CASE][FAILED] - Test Cases/TestCaseLoginUser: Test Cases/TestCaseLoginUser FAILED because (of) Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' located by 'By.xpath: //a[@href = '/products' and (text() = 'Products
+          ' or . = 'Products
+          ')]' not found)
+
+2018-05-10 16:17:36 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 16:17:36 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-05-10 16:17:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 16:17:39 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.186.33.226:2222/' successfully
+
+2018-05-10 16:17:46 - [MESSAGE][PASSED] - Navigate to 'http://54.186.33.226:2222/' successfully
+
+2018-05-10 16:17:46 - [TEST_STEP][PASSED] - setText: Text 'notUser' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_username'
+
+2018-05-10 16:17:47 - [MESSAGE][PASSED] - Text 'notUser' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_username'
+
+2018-05-10 16:17:47 - [TEST_STEP][PASSED] - setText: Text 'notPass' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_password'
+
+2018-05-10 16:17:47 - [MESSAGE][PASSED] - Text 'notPass' is set on object 'Object Repository/LoginUser/Page_ProjectBackend/input_password'
+
+2018-05-10 16:17:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginUser/Page_ProjectBackend/button_Login' is clicked on
+
+2018-05-10 16:17:47 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginUser/Page_ProjectBackend/button_Login' is clicked on
+
+2018-05-10 16:17:47 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' located by 'By.xpath: //a[@href = '/products' and (text() = 'Products
+          ' or . = 'Products
+          ')]' not found)
+
+2018-05-10 16:18:18 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' located by 'By.xpath: //a[@href = '/products' and (text() = 'Products
+          ' or . = 'Products
+          ')]' not found)
+[[ATTACHMENT|C:\\Users\\LNV\\Katalon Studio\\234project-katalon\\Reports\\TestSuiteLogin\\20180510_161620\\1525943898274.png]]]]></system-out>
+         <system-err><![CDATA[2018-05-10 16:17:36 - [TEST_CASE][FAILED] - Test Cases/TestCaseLoginUser: Test Cases/TestCaseLoginUser FAILED because (of) Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Products' located by 'By.xpath: //a[@href = '/products' and (text() = 'Products
+          ' or . = 'Products
+          ')]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 16:16:23 - [TEST_SUITE][FAILED] - TestSuiteLogin: Test Cases/TestCaseLoginUser FAILED because (of) Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            
+          ' or . = 'Carts
+            
+          ')]' not found)]]></system-out>
+      <system-err><![CDATA[2018-05-10 16:16:23 - [TEST_SUITE][FAILED] - TestSuiteLogin: Test Cases/TestCaseLoginUser FAILED because (of) Unable to click on object 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/LoginUser/Page_ProjectBackend/a_Carts' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            
+          ' or . = 'Carts
+            
+          ')]' not found)]]></system-err>
+   </testsuite>
+</testsuites>

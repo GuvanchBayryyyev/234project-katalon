@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuiteLogin,,,2018-05-10 16:19:55,2018-05-10 16:20:01,6.747s,FAILED
+,,,,,,
+Test Cases/TestCaseLoginUser,,Test case for user role,2018-05-10 16:19:56,2018-05-10 16:19:58,2.204s,FAILED
+openBrowser,,,2018-05-10 16:19:57,2018-05-10 16:19:58,0.981s,FAILED
+,,,,,,
+Test Cases/TestCaseLoginUser,,Test case for user role,2018-05-10 16:19:58,2018-05-10 16:19:58,0.127s,FAILED
+openBrowser,,,2018-05-10 16:19:58,2018-05-10 16:19:58,0.048s,FAILED
+,,,,,,
+Test Cases/TestCaseLoginUser,,Test case for user role,2018-05-10 16:19:58,2018-05-10 16:19:58,0.193s,FAILED
+openBrowser,,,2018-05-10 16:19:58,2018-05-10 16:19:58,0.057s,FAILED
+,,,,,,
+Test Cases/TestCaseLoginAdmin,,Test case for admin role,2018-05-10 16:19:58,2018-05-10 16:19:59,1.258s,FAILED
+openBrowser,,,2018-05-10 16:19:59,2018-05-10 16:19:59,0.075s,FAILED
+,,,,,,
+Test Cases/TestCaseIncorrectUserPass,,Test case if there is no such user,2018-05-10 16:19:59,2018-05-10 16:20:00,0.834s,FAILED
+openBrowser,,,2018-05-10 16:20:00,2018-05-10 16:20:00,0.018s,FAILED
+,,,,,,
+Test Cases/TestCaseEmptyUser,,,2018-05-10 16:20:00,2018-05-10 16:20:01,0.612s,FAILED
+openBrowser,,,2018-05-10 16:20:01,2018-05-10 16:20:01,0.012s,FAILED
+,,,,,,
+Test Cases/TestCaseEmptyPassw,,,2018-05-10 16:20:01,2018-05-10 16:20:01,0.471s,FAILED
+openBrowser,,,2018-05-10 16:20:01,2018-05-10 16:20:01,0.013s,FAILED

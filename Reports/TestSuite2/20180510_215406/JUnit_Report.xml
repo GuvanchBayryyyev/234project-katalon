@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite2" time="17" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite2" tests="1" failures="0" errors="0" time="17" timestamp="2018-05-10 21:54:09" hostname="LNV - DESKTOP-OR7KM58.mshome.net" id="Test Suites/TestSuite2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LNV\\Katalon Studio\\234project-katalon\\Reports\\TestSuite2\\20180510_215406"/>
+         <property name="logFiles" value="C:\\Users\\LNV\\Katalon Studio\\234project-katalon\\Reports\\TestSuite2\\20180510_215406\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LNV - DESKTOP-OR7KM58.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 66.0.3359.139"/>
+         <property name="hostAddress" value="172.20.241.177"/>
+         <property name="sessionId" value="b790e9625cb4f001c31eec8e17c59bd1"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCaseTotalTransaction" classname="Test Cases/TestCaseTotalTransaction" status="PASSED">
+         <system-out><![CDATA[2018-05-10 21:54:10 - [TEST_CASE][PASSED] - Test Cases/TestCaseTotalTransaction: Test Cases/TestCaseTotalTransaction
+
+2018-05-10 21:54:10 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 21:54:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 21:54:14 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.186.33.226:2222/' successfully
+
+2018-05-10 21:54:22 - [MESSAGE][PASSED] - Navigate to 'http://54.186.33.226:2222/' successfully
+
+2018-05-10 21:54:22 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/TotalTransaction/Page_ProjectBackend/input_username'
+
+2018-05-10 21:54:23 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/TotalTransaction/Page_ProjectBackend/input_username'
+
+2018-05-10 21:54:23 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/TotalTransaction/Page_ProjectBackend/input_password'
+
+2018-05-10 21:54:23 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/TotalTransaction/Page_ProjectBackend/input_password'
+
+2018-05-10 21:54:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/button_Login' is clicked on
+
+2018-05-10 21:54:23 - [MESSAGE][PASSED] - Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/button_Login' is clicked on
+
+2018-05-10 21:54:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/a_Total Transaction' is clicked on
+
+2018-05-10 21:54:25 - [MESSAGE][PASSED] - Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/a_Total Transaction' is clicked on
+
+2018-05-10 21:54:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/div_Transaction List' is clicked on
+
+2018-05-10 21:54:25 - [MESSAGE][PASSED] - Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/div_Transaction List' is clicked on
+
+2018-05-10 21:54:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/th_Transaction ID' is clicked on
+
+2018-05-10 21:54:25 - [MESSAGE][PASSED] - Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/th_Transaction ID' is clicked on
+
+2018-05-10 21:54:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/th_Products' is clicked on
+
+2018-05-10 21:54:25 - [MESSAGE][PASSED] - Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/th_Products' is clicked on
+
+2018-05-10 21:54:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/th_Amount' is clicked on
+
+2018-05-10 21:54:25 - [MESSAGE][PASSED] - Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/th_Amount' is clicked on
+
+2018-05-10 21:54:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/p_Total price  1107418 THB' is clicked on
+
+2018-05-10 21:54:25 - [MESSAGE][PASSED] - Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/p_Total price  1107418 THB' is clicked on
+
+2018-05-10 21:54:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/button_Logout' is clicked on
+
+2018-05-10 21:54:25 - [MESSAGE][PASSED] - Object: 'Object Repository/TotalTransaction/Page_ProjectBackend/button_Logout' is clicked on
+
+2018-05-10 21:54:25 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-10 21:54:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 21:54:09 - [TEST_SUITE][PASSED] - TestSuite2: Test Cases/TestCaseTotalTransaction]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,41 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite2,Chrome 66.0.3359.139,contains other tests,2018-05-10 16:56:31,2018-05-10 16:57:20,48.561s,ERROR
+,,,,,,
+Test Cases/TestCaseAddToChart,Chrome 66.0.3359.139,"When the user enters the Products page, and clicked at the add to cart button, the button will\nbe changed to already added, and the number of selected products is shown next to the Carts\nmenu.",2018-05-10 16:56:32,2018-05-10 16:56:57,24.707s,PASSED
+openBrowser,Chrome 66.0.3359.139,,2018-05-10 16:56:33,2018-05-10 16:56:37,4.068s,PASSED
+navigateToUrl,Chrome 66.0.3359.139,,2018-05-10 16:56:37,2018-05-10 16:56:52,15.129s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 16:56:52,2018-05-10 16:56:52,0.534s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 16:56:52,2018-05-10 16:56:53,0.188s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:53,2018-05-10 16:56:53,0.176s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:53,2018-05-10 16:56:54,1.211s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:54,2018-05-10 16:56:54,0.109s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:54,2018-05-10 16:56:54,0.108s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:54,2018-05-10 16:56:54,0.071s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:54,2018-05-10 16:56:54,0.209s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:54,2018-05-10 16:56:55,0.107s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:55,2018-05-10 16:56:55,0.158s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:55,2018-05-10 16:56:55,0.114s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:55,2018-05-10 16:56:55,0.117s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:55,2018-05-10 16:56:55,0.102s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:55,2018-05-10 16:56:55,0.157s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:55,2018-05-10 16:56:55,0.114s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:55,2018-05-10 16:56:55,0.156s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:55,2018-05-10 16:56:56,0.123s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:56,2018-05-10 16:56:56,0.132s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:56:56,2018-05-10 16:56:56,0.126s,PASSED
+closeBrowser,Chrome 66.0.3359.139,,2018-05-10 16:56:56,2018-05-10 16:56:57,0.835s,PASSED
+,,,,,,
+Test Cases/TestCaseChartPage,Chrome 66.0.3359.139,"---- After selecting the products, if the user moves to the Carts page, all           the selected products is\n          shown in the cart page. The user can change the amount of                      products for each type of product,\n          and the total price will be changed regarding to the input value.\no  If the user clicks confirm button, the transaction will be added",2018-05-10 16:56:57,2018-05-10 16:57:07,10.012s,ERROR
+openBrowser,Chrome 66.0.3359.139,,2018-05-10 16:56:57,2018-05-10 16:56:59,2.359s,PASSED
+navigateToUrl,Chrome 66.0.3359.139,,2018-05-10 16:56:59,2018-05-10 16:57:07,7.247s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 16:57:07,2018-05-10 16:57:07,0.010s,PASSED
+,,,,,,
+Test Cases/TestCaseProductShown,Chrome 66.0.3359.139,"When the user is in the Products page, all the available products are shown in the web page",2018-05-10 16:57:07,2018-05-10 16:57:20,13.222s,PASSED
+openBrowser,Chrome 66.0.3359.139,,2018-05-10 16:57:07,2018-05-10 16:57:10,2.857s,PASSED
+navigateToUrl,Chrome 66.0.3359.139,,2018-05-10 16:57:10,2018-05-10 16:57:17,7.139s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 16:57:17,2018-05-10 16:57:17,0.293s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 16:57:17,2018-05-10 16:57:18,0.202s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:57:18,2018-05-10 16:57:18,0.236s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:57:18,2018-05-10 16:57:19,1.180s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:57:19,2018-05-10 16:57:19,0.131s,PASSED
+closeBrowser,Chrome 66.0.3359.139,,2018-05-10 16:57:19,2018-05-10 16:57:20,0.805s,PASSED

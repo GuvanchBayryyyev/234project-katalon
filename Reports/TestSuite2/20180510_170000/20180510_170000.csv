@@ -1,0 +1,50 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite2,Chrome 66.0.3359.139,contains other tests,2018-05-10 17:00:03,2018-05-10 17:01:20,1m - 17.651s,FAILED
+,,,,,,
+Test Cases/TestCaseAddToChart,Chrome 66.0.3359.139,"When the user enters the Products page, and clicked at the add to cart button, the button will\nbe changed to already added, and the number of selected products is shown next to the Carts\nmenu.",2018-05-10 17:00:03,2018-05-10 17:00:21,18.138s,PASSED
+openBrowser,Chrome 66.0.3359.139,,2018-05-10 17:00:04,2018-05-10 17:00:08,4.437s,PASSED
+navigateToUrl,Chrome 66.0.3359.139,,2018-05-10 17:00:08,2018-05-10 17:00:16,7.619s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 17:00:16,2018-05-10 17:00:17,0.535s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 17:00:17,2018-05-10 17:00:17,0.323s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:17,2018-05-10 17:00:17,0.295s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:17,2018-05-10 17:00:19,1.278s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:19,2018-05-10 17:00:19,0.116s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:19,2018-05-10 17:00:19,0.100s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:19,2018-05-10 17:00:19,0.116s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:19,2018-05-10 17:00:19,0.212s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:19,2018-05-10 17:00:19,0.137s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:19,2018-05-10 17:00:19,0.142s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:19,2018-05-10 17:00:19,0.113s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:19,2018-05-10 17:00:20,0.124s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:20,2018-05-10 17:00:20,0.116s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:20,2018-05-10 17:00:20,0.102s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:20,2018-05-10 17:00:20,0.105s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:20,2018-05-10 17:00:20,0.135s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:20,2018-05-10 17:00:20,0.108s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:20,2018-05-10 17:00:20,0.113s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:20,2018-05-10 17:00:20,0.108s,PASSED
+closeBrowser,Chrome 66.0.3359.139,,2018-05-10 17:00:20,2018-05-10 17:00:21,0.979s,PASSED
+,,,,,,
+Test Cases/TestCaseChartPage,Chrome 66.0.3359.139,"---- After selecting the products, if the user moves to the Carts page, all           the selected products is\n          shown in the cart page. The user can change the amount of                      products for each type of product,\n          and the total price will be changed regarding to the input value.\no  If the user clicks confirm button, the transaction will be added",2018-05-10 17:00:21,2018-05-10 17:01:05,43.611s,FAILED
+openBrowser,Chrome 66.0.3359.139,,2018-05-10 17:00:22,2018-05-10 17:00:25,2.770s,PASSED
+navigateToUrl,Chrome 66.0.3359.139,,2018-05-10 17:00:25,2018-05-10 17:00:31,6.696s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 17:00:31,2018-05-10 17:00:32,0.290s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 17:00:32,2018-05-10 17:00:32,0.183s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:32,2018-05-10 17:00:32,0.209s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:32,2018-05-10 17:00:33,1.238s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:33,2018-05-10 17:00:33,0.101s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:33,2018-05-10 17:00:33,0.164s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:33,2018-05-10 17:00:34,0.172s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:34,2018-05-10 17:00:34,0.122s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 17:00:34,2018-05-10 17:00:34,0.255s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:00:34,2018-05-10 17:01:05,30.985s,FAILED
+,,,,,,
+Test Cases/TestCaseProductShown,Chrome 66.0.3359.139,"When the user is in the Products page, all the available products are shown in the web page",2018-05-10 17:01:05,2018-05-10 17:01:20,15.168s,PASSED
+openBrowser,Chrome 66.0.3359.139,,2018-05-10 17:01:05,2018-05-10 17:01:09,3.550s,PASSED
+navigateToUrl,Chrome 66.0.3359.139,,2018-05-10 17:01:09,2018-05-10 17:01:17,8.523s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 17:01:17,2018-05-10 17:01:18,0.381s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 17:01:18,2018-05-10 17:01:18,0.211s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:01:18,2018-05-10 17:01:18,0.136s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:01:18,2018-05-10 17:01:19,1.155s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 17:01:19,2018-05-10 17:01:19,0.141s,PASSED
+closeBrowser,Chrome 66.0.3359.139,,2018-05-10 17:01:19,2018-05-10 17:01:20,0.790s,PASSED

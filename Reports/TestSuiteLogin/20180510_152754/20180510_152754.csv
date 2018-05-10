@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuiteLogin,,,2018-05-10 15:27:58,2018-05-10 15:28:01,2.337s,FAILED
+,,,,,,
+Test Cases/TestCaseLoginUser,,Test case for user role,2018-05-10 15:27:59,2018-05-10 15:28:01,1.564s,FAILED
+openBrowser,,,2018-05-10 15:28:00,2018-05-10 15:28:01,0.861s,FAILED

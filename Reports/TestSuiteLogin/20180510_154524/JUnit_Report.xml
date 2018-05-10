@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuiteLogin" time="20" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuiteLogin" tests="1" failures="0" errors="0" time="20" timestamp="2018-05-10 15:45:29" hostname="LNV - DESKTOP-OR7KM58.mshome.net" id="Test Suites/TestSuiteLogin">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LNV\\Katalon Studio\\234project-katalon\\Reports\\TestSuiteLogin\\20180510_154524"/>
+         <property name="logFiles" value="C:\\Users\\LNV\\Katalon Studio\\234project-katalon\\Reports\\TestSuiteLogin\\20180510_154524\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LNV - DESKTOP-OR7KM58.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 66.0.3359.139"/>
+         <property name="hostAddress" value="172.20.241.177"/>
+         <property name="sessionId" value="dba252a72a2411473a566b415441544a"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCaseLoginAdmin" classname="Test Cases/TestCaseLoginAdmin" status="PASSED">
+         <system-out><![CDATA[2018-05-10 15:45:30 - [TEST_CASE][PASSED] - Test Cases/TestCaseLoginAdmin: Test Cases/TestCaseLoginAdmin
+
+2018-05-10 15:45:30 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 15:45:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 15:45:34 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.186.33.226:2222/' successfully
+
+2018-05-10 15:45:46 - [MESSAGE][PASSED] - Navigate to 'http://54.186.33.226:2222/' successfully
+
+2018-05-10 15:45:46 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/LoginAdmin/Page_ProjectBackend/input_username'
+
+2018-05-10 15:45:46 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/LoginAdmin/Page_ProjectBackend/input_username'
+
+2018-05-10 15:45:46 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/LoginAdmin/Page_ProjectBackend/input_password'
+
+2018-05-10 15:45:47 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/LoginAdmin/Page_ProjectBackend/input_password'
+
+2018-05-10 15:45:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginAdmin/Page_ProjectBackend/button_Login' is clicked on
+
+2018-05-10 15:45:47 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginAdmin/Page_ProjectBackend/button_Login' is clicked on
+
+2018-05-10 15:45:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginAdmin/Page_ProjectBackend/a_Products' is clicked on
+
+2018-05-10 15:45:48 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginAdmin/Page_ProjectBackend/a_Products' is clicked on
+
+2018-05-10 15:45:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginAdmin/Page_ProjectBackend/a_Total Transaction' is clicked on
+
+2018-05-10 15:45:48 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginAdmin/Page_ProjectBackend/a_Total Transaction' is clicked on
+
+2018-05-10 15:45:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginAdmin/Page_ProjectBackend/button_Logout' is clicked on
+
+2018-05-10 15:45:48 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginAdmin/Page_ProjectBackend/button_Logout' is clicked on
+
+2018-05-10 15:45:48 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-10 15:45:49 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 15:45:29 - [TEST_SUITE][PASSED] - TestSuiteLogin: Test Cases/TestCaseLoginAdmin]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

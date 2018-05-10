@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuiteLogin,Chrome 66.0.3359.139,,2018-05-10 16:03:03,2018-05-10 16:03:19,16.110s,PASSED
+,,,,,,
+Test Cases/TestCaseIncorrectUserPass,Chrome 66.0.3359.139,Test case if there is no such user,2018-05-10 16:03:03,2018-05-10 16:03:19,15.371s,PASSED
+openBrowser,Chrome 66.0.3359.139,,2018-05-10 16:03:04,2018-05-10 16:03:08,4.392s,PASSED
+navigateToUrl,Chrome 66.0.3359.139,,2018-05-10 16:03:08,2018-05-10 16:03:16,7.343s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 16:03:16,2018-05-10 16:03:16,0.443s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 16:03:16,2018-05-10 16:03:17,0.287s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:03:17,2018-05-10 16:03:17,0.174s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 16:03:17,2018-05-10 16:03:18,1.155s,PASSED
+closeBrowser,Chrome 66.0.3359.139,,2018-05-10 16:03:18,2018-05-10 16:03:19,0.824s,PASSED

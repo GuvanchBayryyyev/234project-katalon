@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuiteLogin,Chrome 66.0.3359.139,,2018-05-10 15:48:26,2018-05-10 15:49:29,1m - 3.222s,FAILED
+,,,,,,
+Test Cases/TestCaseIncorrectUser,Chrome 66.0.3359.139,Test case if there is no such user,2018-05-10 15:48:26,2018-05-10 15:49:21,54.841s,FAILED
+openBrowser,Chrome 66.0.3359.139,,2018-05-10 15:48:27,2018-05-10 15:48:31,4.223s,PASSED
+navigateToUrl,Chrome 66.0.3359.139,,2018-05-10 15:48:31,2018-05-10 15:48:42,11.250s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 15:48:42,2018-05-10 15:48:43,0.469s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 15:48:43,2018-05-10 15:48:43,0.222s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 15:48:43,2018-05-10 15:48:43,0.240s,PASSED
+click,Chrome 66.0.3359.139,,2018-05-10 15:48:43,2018-05-10 15:49:21,37.809s,FAILED
+,,,,,,
+Test Cases/TestCaseIncorrectUser,Chrome 66.0.3359.139,Test case if there is no such user,2018-05-10 15:49:21,2018-05-10 15:49:28,6.912s,FAILED
+openBrowser,Chrome 66.0.3359.139,,2018-05-10 15:49:21,2018-05-10 15:49:24,2.744s,PASSED
+navigateToUrl,Chrome 66.0.3359.139,,2018-05-10 15:49:24,2018-05-10 15:49:28,4.095s,PASSED
+setText,Chrome 66.0.3359.139,,2018-05-10 15:49:28,2018-05-10 15:49:28,0.033s,FAILED

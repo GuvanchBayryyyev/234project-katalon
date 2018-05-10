@@ -4,7 +4,7 @@
    <name>TestSuiteLogin</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-05-10T16:50:49</lastRun>
+   <lastRun>2018-05-10T22:23:38</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>2df08713-22df-480d-b7cf-f4e03fa16cb0</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/TestCaseLoginAdmin</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -41,7 +41,7 @@
    <testCaseLink>
       <guid>46e99659-eec6-4fb8-9fc1-d7a2cad48511</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/TestCaseIncorrectUserPass</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -68,7 +68,7 @@
    <testCaseLink>
       <guid>1040cee6-1da9-46f2-b7e1-f1f71be494d2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/TestCaseEmptyUser</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -89,7 +89,7 @@
    <testCaseLink>
       <guid>e28c03a4-1bde-4373-a567-e52dadfe54c4</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/TestCaseEmptyPassw</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -110,7 +110,7 @@
    <testCaseLink>
       <guid>e5b643e8-ac9d-4dd0-b3d4-f31bb1c086a0</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/TestCaseLoginUser</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>

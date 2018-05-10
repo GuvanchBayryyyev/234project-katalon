@@ -4,7 +4,7 @@
    <name>TestSuite2</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-05-10T21:54:06</lastRun>
+   <lastRun>2018-05-10T22:25:53</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>a3799997-cd8f-45bd-b03b-ce4b10e2f772</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/TestCaseAddToChart</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -41,7 +41,7 @@
    <testCaseLink>
       <guid>4057cb17-6c9b-4b85-a33e-a48c6f699afe</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/TestCaseChartPage</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -68,7 +68,7 @@
    <testCaseLink>
       <guid>11da3024-b75a-4b43-a0f0-f7d5f965b98f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/TestCaseProductShown</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -95,7 +95,7 @@
    <testCaseLink>
       <guid>15a1718c-48d5-4687-afc1-8951d7badaad</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/TestCaseLogOut</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
