@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for admin role</description>
+   <name>TestCaseLoginAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e93f3b2b-aa4c-449b-acd9-22330fe8577c</testCaseGuid>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>0d63e05f-a377-491f-a6c7-f413489c2aa3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>262f5f61-7e78-4f0c-bbf6-d8d35e6f5556</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
