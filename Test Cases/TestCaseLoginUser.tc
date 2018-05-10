@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for user role</description>
+   <name>TestCaseLoginUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16b89bbd-ad18-4e80-be44-b93f5215d069</testCaseGuid>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>3167ea4a-8302-435b-987c-6f8c1393eef4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>14d845bf-d8d9-4270-88a3-c56ff37c1e6b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
