@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user enters the Products page, and clicked at the add to cart button, the button will
+be changed to already added, and the number of selected products is shown next to the Carts
+menu.</description>
+   <name>TestCaseAddToChart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ef20f83-a5b1-47d7-a323-6212f3f3eb8e</testCaseGuid>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>403c5ef5-f5e1-4e8e-87e5-85e249404853</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>1e4984c1-fd5e-46e5-80bc-e174c13424c5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
