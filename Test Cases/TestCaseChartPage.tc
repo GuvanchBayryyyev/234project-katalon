@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>---- After selecting the products, if the user moves to the Carts page, all           the selected products is
+          shown in the cart page. The user can change the amount of                      products for each type of product,
+          and the total price will be changed regarding to the input value.
+o  If the user clicks confirm button, the transaction will be added</description>
+   <name>TestCaseChartPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fb8dd7f-94a1-413b-981a-f7210a1e48b6</testCaseGuid>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>8f8886e0-35e9-4ac8-a848-20720f50f471</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>db1d49a7-c37c-4c8d-8306-837b1c24d529</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
