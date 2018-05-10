@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case if there is no such user</description>
+   <name>TestCaseIncorrectUserPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a41c36b-6fd7-403c-bea7-6a46a0c22558</testCaseGuid>
+   <variable>
+      <defaultValue>'notUser'</defaultValue>
+      <description></description>
+      <id>203c235c-f712-41d4-999d-cec7743ac325</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'notPass'</defaultValue>
+      <description></description>
+      <id>e79935da-c0a0-4d19-a2c0-8b77c096afc0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
